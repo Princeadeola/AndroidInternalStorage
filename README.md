@@ -9,7 +9,7 @@ Internal storage is the storage of the private data on the device memory.
 By default these files are private and are accessed by only your application and get deleted , when user delete your application.
 
 
-<h1>Following FreeCodeCamp Blog</h1>
+<h1>Grab the concept here</h1>
 
 Internal Storage
 When each application is run on the operating system, it has its own internal storage. This storage is private and only for the use of the application. Meaning, other applications cannot access it, nor can the user. Another thing to keep in mind when using internal storage is the availability of it. Unlike external storage, internal storage is always available for your application.
